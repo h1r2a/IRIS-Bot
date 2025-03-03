@@ -1,0 +1,783 @@
+[
+  {
+    "input": "Peux-tu me dire ce qu'est IDEM Tech ?",
+    "output": "IDEM Tech est une entreprise spécialisée dans l'identité digitale biométrique à Madagascar. Fondée en 2023 et filiale de Basmak Technologies, elle vise à moderniser l'identification des citoyens malgaches grâce à des technologies avancées."
+  },
+  {
+    "input": "Qu'est-ce que la société IDEM Tech ?",
+    "output": "IDEM Tech est une entreprise spécialisée dans l'identité digitale biométrique à Madagascar. Fondée en 2023 et filiale de Basmak Technologies, elle vise à moderniser l'identification des citoyens malgaches grâce à des technologies avancées."
+  },
+  {
+    "input": "C'est quoi IDEM Tech exactement ?",
+    "output": "IDEM Tech est une entreprise spécialisée dans l'identité digitale biométrique à Madagascar. Fondée en 2023 et filiale de Basmak Technologies, elle vise à moderniser l'identification des citoyens malgaches grâce à des technologies avancées."
+  },
+  {
+    "input": "Qu'est-ce qu'IDEM Tech ?",
+    "output": "IDEM Tech, filiale de Basmak Technologies, œuvre depuis 2023 pour moderniser l'identification des citoyens malgaches grâce à des solutions biométriques avancées."
+  },
+  {
+    "input": "Qu'est-ce qu'IDEM Tech ?",
+    "output": "Entreprise fondée en 2023, IDEM Tech est spécialisée dans l'identité digitale et biométrique pour sécuriser l'identification des citoyens malgaches."
+  },
+  {
+    "input": "Qu'est-ce qu'IDEM Tech ?",
+    "output": "IDEM Tech est une entreprise spécialisée dans l'identité digitale biométrique à Madagascar. Fondée en 2023 et filiale de Basmak Technologies, elle vise à moderniser l'identification des citoyens malgaches grâce à des technologies avancées."
+  },
+  {
+    "input": "IDEM Tech a été fondée en quelle année ?",
+    "output": "IDEM Tech a été fondée en 2023 dans le but de moderniser l'identité digitale et biométrique à Madagascar."
+  },
+  {
+    "input": "Depuis quand IDEM Tech existe-t-elle ?",
+    "output": "IDEM Tech a été fondée en 2023 dans le but de moderniser l'identité digitale et biométrique à Madagascar."
+  },
+  {
+    "input": "Quelle est l'année de création d'IDEM Tech ?",
+    "output": "IDEM Tech a été fondée en 2023 dans le but de moderniser l'identité digitale et biométrique à Madagascar."
+  },
+  {
+    "input": "Quand IDEM Tech a-t-elle été créée ?",
+    "output": "Créée en 2023, IDEM Tech ambitionne de transformer l'identité digitale et biométrique à Madagascar."
+  },
+  {
+    "input": "Quand IDEM Tech a-t-elle été créée ?",
+    "output": "Depuis 2023, IDEM Tech œuvre pour améliorer la gestion de l'identité numérique et biométrique à Madagascar."
+  },
+  {
+    "input": "Quand IDEM Tech a-t-elle été créée ?",
+    "output": "IDEM Tech a été fondée en 2023 dans le but de moderniser l'identité digitale et biométrique à Madagascar."
+  },
+  {
+    "input": "Quelle est la filiale mère d'IDEM Tech ?",
+    "output": "IDEM Tech est une filiale de Basmak Technologies, une entreprise spécialisée dans la fabrication d’équipements biométriques et logiciels."
+  },
+  {
+    "input": "Quels sont les principaux services d'IDEM Tech ?",
+    "output": "IDEM Tech propose des services d'enrôlement biométrique, de gestion et émission de documents d’identité, ainsi que des solutions de vérification et d’authentification biométrique."
+  },
+  {
+    "input": "Quels types de services IDEM Tech fournit-elle ?",
+    "output": "IDEM Tech propose des services d'enrôlement biométrique, de gestion et émission de documents d’identité, ainsi que des solutions de vérification et d’authentification biométrique."
+  },
+  {
+    "input": "Que propose IDEM Tech comme services ?",
+    "output": "IDEM Tech propose des services d'enrôlement biométrique, de gestion et émission de documents d’identité, ainsi que des solutions de vérification et d’authentification biométrique."
+  },
+  {
+    "input": "Quels sont les services proposés par IDEM Tech ?",
+    "output": "IDEM Tech propose des services d'enrôlement biométrique, de gestion et émission de documents d’identité, ainsi que des solutions de vérification et d’authentification biométrique."
+  },
+  {
+    "input": "Quelles sont les principales missions d'IDEM Tech ?",
+    "output": "IDEM Tech a pour mission principale d'enrôler les citoyens malgaches dans un système biométrique national sécurisé. Elle gère également l'émission de documents d'identité officiels et facilite l'accès aux services administratifs grâce à des plateformes numériques sécurisées."
+  },
+  {
+    "input": "Quels types de données biométriques IDEM Tech collecte-t-elle ?",
+    "output": "IDEM Tech collecte des données biométriques telles que les empreintes digitales, la reconnaissance faciale, les empreintes de paume, l'iris et la voix, afin de garantir une identification fiable et sécurisée."
+  },
+  {
+    "input": "Quels sont les produits proposés par IDEM Tech ?",
+    "output": "IDEM Tech propose des solutions biométriques avancées telles que des cartes biométriques (CNI, permis de conduire, passeports), des systèmes d'enregistrement d'identité, de gestion d'identité, d'identification criminelle et de gestion des élections."
+  },
+  {
+    "input": "IDEM Tech respecte-t-elle les normes internationales ?",
+    "output": "Oui, les systèmes d'identification électronique et biométrique d'IDEM Tech sont conformes aux normes internationales en matière de sécurité et de gestion des données. L'entreprise se conforme également aux lois sur la protection des données."
+  },
+  {
+    "input": "Comment IDEM Tech sécurise-t-elle les documents qu'elle émet ?",
+    "output": "IDEM Tech utilise des technologies biométriques avancées pour garantir la sécurité des documents d'identité. Ces technologies empêchent la falsification et assurent une gestion rigoureuse des données."
+  },
+  {
+    "input": "Quels secteurs peuvent bénéficier des solutions biométriques d'IDEM Tech ?",
+    "output": "Les solutions biométriques d'IDEM Tech sont adaptées aux gouvernements, au secteur financier, à la santé, aux forces de l'ordre et à toute organisation nécessitant une identification sécurisée."
+  },
+  {
+    "input": "Où est située IDEM Tech ?",
+    "output": "IDEM Tech est située à LOT I 112 A LOHANOSY, Ambohijanaka, Antananarivo 102, Madagascar."
+  },
+  {
+    "input": "Comment contacter IDEM Tech ?",
+    "output": "Vous pouvez contacter IDEM Tech par téléphone au +261 32 78 77 122 ou par email à info@idem-madagascar.com."
+  },
+  {
+    "input": "Quels sont les horaires d'ouverture d'IDEM Tech ?",
+    "output": "IDEM Tech est ouvert du lundi au vendredi, de 8h00 à 17h00."
+  },
+  {
+    "input": "Quel est le numéro de téléphone d'IDEM Tech ?",
+    "output": "Le numéro de téléphone d'IDEM Tech est +261 32 78 77 122."
+  },
+  {
+    "input": "Quelle est l'adresse e-mail d'IDEM Tech ?",
+    "output": "L'adresse e-mail de contact d'IDEM Tech est info@idem-madagascar.com."
+  },
+  {
+    "input": "Quels types de cartes biométriques IDEM Tech propose-t-elle ?",
+    "output": "IDEM Tech propose des cartes biométriques telles que la Carte Nationale d’Identité, le Permis de Conduire, le Passeport, la Carte de Fonctionnaire, la Carte Militaire et la Carte de Police."
+  },
+  {
+    "input": "IDEM Tech propose-t-elle des solutions pour les élections ?",
+    "output": "Oui, IDEM Tech propose un Système de Gestion des Élections (EMS) permettant un enregistrement transparent des électeurs, la maintenance sécurisée des données et la consolidation des informations électorales sur une plateforme unifiée."
+  },
+  {
+    "input": "Qui es-tu ?",
+    "output": "Je suis IRIS, une intelligence artificielle conçue pour répondre à vos questions."
+  },
+  {
+    "input": "Comment t'appelles-tu ?",
+    "output": "Je suis IRIS, votre assistant virtuel."
+  },
+  {
+    "input": "Peux-tu me parler de toi ?",
+    "output": "Bien sûr ! Je suis IRIS, un chatbot intelligent capable de répondre à vos interrogations."
+  },
+  {
+    "input": "Quel est ton rôle ?",
+    "output": "Mon rôle est de vous fournir des informations et de répondre à vos questions avec précision."
+  },
+  {
+    "input": "Bonjour",
+    "output": "Bonjour ! Comment puis-je vous aider ?"
+  },
+  {
+    "input": "Salut",
+    "output": "Salut ! Que puis-je faire pour vous ?"
+  },
+  {
+    "input": "Comment ça va ?",
+    "output": "Je vais bien, merci ! Et vous ?"
+  },
+  {
+    "input": "Bonsoir",
+    "output": "Bonsoir ! En quoi puis-je vous aider ?"
+  },
+  {
+    "input": "Peux-tu me dire ce qu'est IDEM Tech ?",
+    "output": "IDEM Tech est une entreprise innovante dans le domaine de la biométrie et de l'identité numérique. Depuis 2023, elle développe des solutions permettant une identification sécurisée et efficace des citoyens malgaches."
+  },
+  {
+    "input": "Peux-tu me dire ce qu'est IDEM Tech ?",
+    "output": "Spécialisée dans la biométrie et l'identité numérique, IDEM Tech propose des technologies avancées pour moderniser les systèmes d'identification à Madagascar."
+  },
+  {
+    "input": "Qu'est-ce que la société IDEM Tech ?",
+    "output": "IDEM Tech est une entreprise innovante dans le domaine de la biométrie et de l'identité numérique. Depuis 2023, elle développe des solutions permettant une identification sécurisée et efficace des citoyens malgaches."
+  },
+  {
+    "input": "Qu'est-ce que la société IDEM Tech ?",
+    "output": "Spécialisée dans la biométrie et l'identité numérique, IDEM Tech propose des technologies avancées pour moderniser les systèmes d'identification à Madagascar."
+  },
+  {
+    "input": "C'est quoi IDEM Tech exactement ?",
+    "output": "IDEM Tech est une entreprise innovante dans le domaine de la biométrie et de l'identité numérique. Depuis 2023, elle développe des solutions permettant une identification sécurisée et efficace des citoyens malgaches."
+  },
+  {
+    "input": "C'est quoi IDEM Tech exactement ?",
+    "output": "Spécialisée dans la biométrie et l'identité numérique, IDEM Tech propose des technologies avancées pour moderniser les systèmes d'identification à Madagascar."
+  },
+  {
+    "input": "Que fait IDEM Tech ?",
+    "output": "IDEM Tech, filiale de Basmak Technologies, œuvre depuis 2023 pour moderniser l'identification des citoyens malgaches grâce à des solutions biométriques avancées."
+  },
+  {
+    "input": "IDEM Tech, c'est quoi au juste ?",
+    "output": "IDEM Tech, filiale de Basmak Technologies, œuvre depuis 2023 pour moderniser l'identification des citoyens malgaches grâce à des solutions biométriques avancées."
+  },
+  {
+    "input": "Quelle est l'activité principale d'IDEM Tech ?",
+    "output": "IDEM Tech, filiale de Basmak Technologies, œuvre depuis 2023 pour moderniser l'identification des citoyens malgaches grâce à des solutions biométriques avancées."
+  },
+  {
+    "input": "Que fait IDEM Tech ?",
+    "output": "Entreprise fondée en 2023, IDEM Tech est spécialisée dans l'identité digitale et biométrique pour sécuriser l'identification des citoyens malgaches."
+  },
+  {
+    "input": "IDEM Tech, c'est quoi au juste ?",
+    "output": "Entreprise fondée en 2023, IDEM Tech est spécialisée dans l'identité digitale et biométrique pour sécuriser l'identification des citoyens malgaches."
+  },
+  {
+    "input": "Quelle est l'activité principale d'IDEM Tech ?",
+    "output": "Entreprise fondée en 2023, IDEM Tech est spécialisée dans l'identité digitale et biométrique pour sécuriser l'identification des citoyens malgaches."
+  },
+  {
+    "input": "Que fait IDEM Tech ?",
+    "output": "IDEM Tech est une entreprise spécialisée dans l'identité digitale biométrique à Madagascar. Fondée en 2023 et filiale de Basmak Technologies, elle vise à moderniser l'identification des citoyens malgaches grâce à des technologies avancées."
+  },
+  {
+    "input": "IDEM Tech, c'est quoi au juste ?",
+    "output": "IDEM Tech est une entreprise spécialisée dans l'identité digitale biométrique à Madagascar. Fondée en 2023 et filiale de Basmak Technologies, elle vise à moderniser l'identification des citoyens malgaches grâce à des technologies avancées."
+  },
+  {
+    "input": "Quelle est l'activité principale d'IDEM Tech ?",
+    "output": "IDEM Tech est une entreprise spécialisée dans l'identité digitale biométrique à Madagascar. Fondée en 2023 et filiale de Basmak Technologies, elle vise à moderniser l'identification des citoyens malgaches grâce à des technologies avancées."
+  },
+  {
+    "input": "Qu'est-ce qu'IDEM Tech ?",
+    "output": "IDEM Tech est une entreprise innovante dans le domaine de la biométrie et de l'identité numérique. Depuis 2023, elle développe des solutions permettant une identification sécurisée et efficace des citoyens malgaches."
+  },
+  {
+    "input": "Qu'est-ce qu'IDEM Tech ?",
+    "output": "Spécialisée dans la biométrie et l'identité numérique, IDEM Tech propose des technologies avancées pour moderniser les systèmes d'identification à Madagascar."
+  },
+  {
+    "input": "Quels types de solutions IDEM Tech offre-t-elle ?",
+    "output": "IDEM Tech propose des services d'enrôlement biométrique, de gestion et émission de documents d’identité, ainsi que des solutions de vérification et d’authentification biométrique."
+  },
+  {
+    "input": "Quels sont les services clés d'IDEM Tech ?",
+    "output": "IDEM Tech propose des services d'enrôlement biométrique, de gestion et émission de documents d’identité, ainsi que des solutions de vérification et d’authentification biométrique."
+  },
+  {
+    "input": "Quels domaines IDEM Tech couvre-t-elle avec ses services ?",
+    "output": "IDEM Tech propose des services d'enrôlement biométrique, de gestion et émission de documents d’identité, ainsi que des solutions de vérification et d’authentification biométrique."
+  },
+  {
+    "input": "Quels types de produits biométriques IDEM Tech développe-t-elle ?",
+    "output": "IDEM Tech propose des solutions biométriques avancées telles que des cartes biométriques (CNI, permis de conduire, passeports), des systèmes d'enregistrement d'identité, de gestion d'identité, d'identification criminelle et de gestion des élections."
+  },
+  {
+    "input": "Quels sont les principaux produits d'IDEM Tech ?",
+    "output": "IDEM Tech propose des solutions biométriques avancées telles que des cartes biométriques (CNI, permis de conduire, passeports), des systèmes d'enregistrement d'identité, de gestion d'identité, d'identification criminelle et de gestion des élections."
+  },
+  {
+    "input": "Quels outils d'identification IDEM Tech fournit-elle ?",
+    "output": "IDEM Tech propose des solutions biométriques avancées telles que des cartes biométriques (CNI, permis de conduire, passeports), des systèmes d'enregistrement d'identité, de gestion d'identité, d'identification criminelle et de gestion des élections."
+  },
+  {
+    "input": "Salut, comment vas-tu ?",
+    "output": "Salut ! Je vais super bien, merci. Et toi, comment ça va ?"
+  },
+  {
+    "input": "Coucou",
+    "output": "Coucou ! Comment puis-je t'aider aujourd'hui ?"
+  },
+  {
+    "input": "Yo",
+    "output": "Yo ! Quoi de neuf ?"
+  },
+  {
+    "input": "Bonjour, qui es-tu ?",
+    "output": "Bonjour ! Je suis IRIS, ton assistant virtuel. Comment puis-je t’aider ?"
+  },
+  {
+    "input": "IDEM Tech travaille-t-elle avec des entreprises privées ?",
+    "output": "Oui, IDEM Tech collabore avec des entreprises privées, des administrations publiques et des organisations qui nécessitent des solutions biométriques fiables."
+  },
+  {
+    "input": "Quels sont les avantages des cartes biométriques ?",
+    "output": "Les cartes biométriques permettent une identification rapide et sécurisée. Elles réduisent le risque de fraude et simplifient l'accès aux services administratifs et financiers."
+  },
+  {
+    "input": "Comment fonctionne l'enregistrement biométrique ?",
+    "output": "L’enregistrement biométrique consiste à collecter des empreintes digitales, des données faciales et d'autres éléments uniques pour garantir une identification sécurisée."
+  },
+  {
+    "input": "Quels sont les engagements d'IDEM Tech en matière de sécurité ?",
+    "output": "IDEM Tech s'engage à respecter les normes internationales en matière de protection des données et à assurer la confidentialité et la sécurité des informations personnelles."
+  },
+  {
+    "input": "Pourquoi utiliser la biométrie plutôt qu'un mot de passe ?",
+    "output": "La biométrie est unique à chaque individu et ne peut pas être oubliée ou volée comme un mot de passe. Elle offre une sécurité renforcée et une authentification plus rapide."
+  },
+  {
+    "input": "Peux-tu me dire ce qu'est IDEM Tech ?",
+    "output": "IDEM Tech, c'est une entreprise qui facilite l'identification des citoyens malgaches grâce aux nouvelles technologies biométriques. On s'assure que tout soit plus simple, rapide et sécurisé !"
+  },
+  {
+    "input": "Peux-tu me dire ce qu'est IDEM Tech ?",
+    "output": "Chez IDEM Tech, notre mission est de rendre l'identification plus moderne et accessible à tous à Madagascar. On utilise des outils biométriques avancés pour ça."
+  },
+  {
+    "input": "Qu'est-ce que la société IDEM Tech ?",
+    "output": "IDEM Tech, c'est une entreprise qui facilite l'identification des citoyens malgaches grâce aux nouvelles technologies biométriques. On s'assure que tout soit plus simple, rapide et sécurisé !"
+  },
+  {
+    "input": "Qu'est-ce que la société IDEM Tech ?",
+    "output": "Chez IDEM Tech, notre mission est de rendre l'identification plus moderne et accessible à tous à Madagascar. On utilise des outils biométriques avancés pour ça."
+  },
+  {
+    "input": "C'est quoi IDEM Tech exactement ?",
+    "output": "IDEM Tech, c'est une entreprise qui facilite l'identification des citoyens malgaches grâce aux nouvelles technologies biométriques. On s'assure que tout soit plus simple, rapide et sécurisé !"
+  },
+  {
+    "input": "C'est quoi IDEM Tech exactement ?",
+    "output": "Chez IDEM Tech, notre mission est de rendre l'identification plus moderne et accessible à tous à Madagascar. On utilise des outils biométriques avancés pour ça."
+  },
+  {
+    "input": "Qu'est-ce qu'IDEM Tech ?",
+    "output": "IDEM Tech, c'est une entreprise qui facilite l'identification des citoyens malgaches grâce aux nouvelles technologies biométriques. On s'assure que tout soit plus simple, rapide et sécurisé !"
+  },
+  {
+    "input": "Qu'est-ce qu'IDEM Tech ?",
+    "output": "Chez IDEM Tech, notre mission est de rendre l'identification plus moderne et accessible à tous à Madagascar. On utilise des outils biométriques avancés pour ça."
+  },
+  {
+    "input": "Que fait IDEM Tech ?",
+    "output": "IDEM Tech, c'est une entreprise qui facilite l'identification des citoyens malgaches grâce aux nouvelles technologies biométriques. On s'assure que tout soit plus simple, rapide et sécurisé !"
+  },
+  {
+    "input": "Que fait IDEM Tech ?",
+    "output": "Chez IDEM Tech, notre mission est de rendre l'identification plus moderne et accessible à tous à Madagascar. On utilise des outils biométriques avancés pour ça."
+  },
+  {
+    "input": "IDEM Tech, c'est quoi au juste ?",
+    "output": "IDEM Tech, c'est une entreprise qui facilite l'identification des citoyens malgaches grâce aux nouvelles technologies biométriques. On s'assure que tout soit plus simple, rapide et sécurisé !"
+  },
+  {
+    "input": "IDEM Tech, c'est quoi au juste ?",
+    "output": "Chez IDEM Tech, notre mission est de rendre l'identification plus moderne et accessible à tous à Madagascar. On utilise des outils biométriques avancés pour ça."
+  },
+  {
+    "input": "Quelle est l'activité principale d'IDEM Tech ?",
+    "output": "IDEM Tech, c'est une entreprise qui facilite l'identification des citoyens malgaches grâce aux nouvelles technologies biométriques. On s'assure que tout soit plus simple, rapide et sécurisé !"
+  },
+  {
+    "input": "Quelle est l'activité principale d'IDEM Tech ?",
+    "output": "Chez IDEM Tech, notre mission est de rendre l'identification plus moderne et accessible à tous à Madagascar. On utilise des outils biométriques avancés pour ça."
+  },
+  {
+    "input": "Can you tell me what IDEM Tech is?",
+    "output": "IDEM Tech is a company specialized in digital biometric identity in Madagascar. Founded in 2023 and a subsidiary of Basmak Technologies, it aims to modernize the identification of Malagasy citizens through advanced technologies."
+  },
+  {
+    "input": "What is the company IDEM Tech?",
+    "output": "IDEM Tech is a company specialized in digital biometric identity in Madagascar. Founded in 2023 and a subsidiary of Basmak Technologies, it aims to modernize the identification of Malagasy citizens through advanced technologies."
+  },
+  {
+    "input": "What exactly is IDEM Tech?",
+    "output": "IDEM Tech is a company specialized in digital biometric identity in Madagascar. Founded in 2023 and a subsidiary of Basmak Technologies, it aims to modernize the identification of Malagasy citizens through advanced technologies."
+  },
+  {
+    "input": "What is IDEM Tech?",
+    "output": "IDEM Tech, a subsidiary of Basmak Technologies, has been working since 2023 to modernize the identification of Malagasy citizens through advanced biometric solutions."
+  },
+  {
+    "input": "What is IDEM Tech?",
+    "output": "Founded in 2023, IDEM Tech specializes in digital and biometric identity to secure the identification of Malagasy citizens."
+  },
+  {
+    "input": "What is IDEM Tech?",
+    "output": "IDEM Tech is a company specialized in digital biometric identity in Madagascar. Founded in 2023 and a subsidiary of Basmak Technologies, it aims to modernize the identification of Malagasy citizens through advanced technologies."
+  },
+  {
+    "input": "In what year was IDEM Tech founded?",
+    "output": "IDEM Tech was founded in 2023 with the aim of modernizing digital and biometric identity in Madagascar."
+  },
+  {
+    "input": "Since when has IDEM Tech existed?",
+    "output": "IDEM Tech was founded in 2023 with the aim of modernizing digital and biometric identity in Madagascar."
+  },
+  {
+    "input": "What is the year of IDEM Tech's creation?",
+    "output": "IDEM Tech was founded in 2023 with the aim of modernizing digital and biometric identity in Madagascar."
+  },
+  {
+    "input": "When was IDEM Tech created?",
+    "output": "Founded in 2023, IDEM Tech aims to transform digital and biometric identity in Madagascar."
+  },
+  {
+    "input": "When was IDEM Tech created?",
+    "output": "Since 2023, IDEM Tech has been working to improve the management of digital and biometric identity in Madagascar."
+  },
+  {
+    "input": "When was IDEM Tech created?",
+    "output": "IDEM Tech was founded in 2023 with the aim of modernizing digital and biometric identity in Madagascar."
+  },
+  {
+    "input": "What is IDEM Tech's parent company?",
+    "output": "IDEM Tech is a subsidiary of Basmak Technologies, a company specializing in the manufacturing of biometric equipment and software."
+  },
+  {
+    "input": "What are IDEM Tech's main services?",
+    "output": "IDEM Tech offers biometric enrollment services, identity document management and issuance, as well as biometric verification and authentication solutions."
+  },
+  {
+    "input": "What types of services does IDEM Tech provide?",
+    "output": "IDEM Tech offers biometric enrollment services, identity document management and issuance, as well as biometric verification and authentication solutions."
+  },
+  {
+    "input": "What services does IDEM Tech offer?",
+    "output": "IDEM Tech offers biometric enrollment services, identity document management and issuance, as well as biometric verification and authentication solutions."
+  },
+  {
+    "input": "What are the services provided by IDEM Tech?",
+    "output": "IDEM Tech offers biometric enrollment services, identity document management and issuance, as well as biometric verification and authentication solutions."
+  },
+  {
+    "input": "What are IDEM Tech's main missions?",
+    "output": "IDEM Tech's main mission is to enroll Malagasy citizens in a secure national biometric system. It also manages the issuance of official identity documents and facilitates access to administrative services through secure digital platforms."
+  },
+  {
+    "input": "What types of biometric data does IDEM Tech collect?",
+    "output": "IDEM Tech collects biometric data such as fingerprints, facial recognition, palm prints, iris scans, and voice data to ensure reliable and secure identification."
+  },
+  {
+    "input": "What products does IDEM Tech offer?",
+    "output": "IDEM Tech offers advanced biometric solutions such as biometric ID cards (National ID, driver's licenses, passports), identity registration systems, identity management, criminal identification, and election management."
+  },
+  {
+    "input": "Does IDEM Tech comply with international standards?",
+    "output": "Yes, IDEM Tech's electronic and biometric identification systems comply with international security and data management standards. The company also follows data protection laws."
+  },
+  {
+    "input": "How does IDEM Tech secure the documents it issues?",
+    "output": "IDEM Tech uses advanced biometric technologies to ensure the security of identity documents. These technologies prevent forgery and ensure strict data management."
+  },
+  {
+    "input": "Which sectors can benefit from IDEM Tech's biometric solutions?",
+    "output": "IDEM Tech's biometric solutions are designed for governments, the financial sector, healthcare, law enforcement, and any organization requiring secure identification."
+  },
+  {
+    "input": "Where is IDEM Tech located?",
+    "output": "IDEM Tech is located at LOT I 112 A LOHANOSY, Ambohijanaka, Antananarivo 102, Madagascar."
+  },
+  {
+    "input": "How can I contact IDEM Tech?",
+    "output": "You can contact IDEM Tech by phone at +261 32 78 77 122 or by email at info@idem-madagascar.com."
+  },
+  {
+    "input": "What are IDEM Tech's opening hours?",
+    "output": "IDEM Tech is open from Monday to Friday, from 8:00 AM to 5:00 PM."
+  },
+  {
+    "input": "What is IDEM Tech's phone number?",
+    "output": "IDEM Tech's phone number is +261 32 78 77 122."
+  },
+  {
+    "input": "What is IDEM Tech's email address?",
+    "output": "IDEM Tech's contact email address is info@idem-madagascar.com."
+  },
+  {
+    "input": "What types of biometric cards does IDEM Tech offer?",
+    "output": "IDEM Tech offers biometric cards such as the National Identity Card, Driver's License, Passport, Civil Servant Card, Military Card, and Police Card."
+  },
+  {
+    "input": "Does IDEM Tech offer solutions for elections?",
+    "output": "Yes, IDEM Tech provides an Election Management System (EMS) that enables transparent voter registration, secure data maintenance, and the consolidation of electoral information on a unified platform."
+  },
+  {
+    "input": "Who are you?",
+    "output": "I am IRIS, an artificial intelligence designed to answer your questions."
+  },
+  {
+    "input": "What is your name?",
+    "output": "I am IRIS, your virtual assistant."
+  },
+  {
+    "input": "Can you tell me about yourself?",
+    "output": "Of course! I am IRIS, an intelligent chatbot capable of answering your questions."
+  },
+  {
+    "input": "What is your role?",
+    "output": "My role is to provide you with information and answer your questions accurately."
+  },
+  {
+    "input": "Hello",
+    "output": "Hello! How can I help you?"
+  },
+  {
+    "input": "Hi",
+    "output": "Hi! What can I do for you?"
+  },
+  {
+    "input": "How are you?",
+    "output": "I'm doing well, thank you! And you?"
+  },
+  {
+    "input": "Good evening",
+    "output": "Good evening! How can I assist you?"
+  },
+  {
+    "input": "Can you tell me what IDEM Tech is?",
+    "output": "IDEM Tech is an innovative company in the field of biometrics and digital identity. Since 2023, it has been developing solutions for secure and efficient citizen identification in Madagascar."
+  },
+  {
+    "input": "Can you tell me what IDEM Tech is?",
+    "output": "Specializing in biometrics and digital identity, IDEM Tech provides advanced technologies to modernize identification systems in Madagascar."
+  },
+  {
+    "input": "What is the company IDEM Tech?",
+    "output": "IDEM Tech is an innovative company in the field of biometrics and digital identity. Since 2023, it has been developing solutions for secure and efficient citizen identification in Madagascar."
+  },
+  {
+    "input": "What is the company IDEM Tech?",
+    "output": "Specializing in biometrics and digital identity, IDEM Tech provides advanced technologies to modernize identification systems in Madagascar."
+  },
+  {
+    "input": "What exactly is IDEM Tech?",
+    "output": "IDEM Tech is an innovative company in the field of biometrics and digital identity. Since 2023, it has been developing solutions for secure and efficient citizen identification in Madagascar."
+  },
+  {
+    "input": "What exactly is IDEM Tech?",
+    "output": "Specializing in biometrics and digital identity, IDEM Tech provides advanced technologies to modernize identification systems in Madagascar."
+  },
+  {
+    "input": "What does IDEM Tech do?",
+    "output": "IDEM Tech, a subsidiary of Basmak Technologies, has been working since 2023 to modernize the identification of Malagasy citizens through advanced biometric solutions."
+  },
+  {
+    "input": "What exactly is IDEM Tech?",
+    "output": "IDEM Tech, a subsidiary of Basmak Technologies, has been working since 2023 to modernize the identification of Malagasy citizens through advanced biometric solutions."
+  },
+  {
+    "input": "What is IDEM Tech's main activity?",
+    "output": "IDEM Tech, a subsidiary of Basmak Technologies, has been working since 2023 to modernize the identification of Malagasy citizens through advanced biometric solutions."
+  },
+  {
+    "input": "What does IDEM Tech do?",
+    "output": "Founded in 2023, IDEM Tech specializes in digital and biometric identity to secure the identification of Malagasy citizens."
+  },
+  {
+    "input": "What exactly is IDEM Tech?",
+    "output": "Founded in 2023, IDEM Tech specializes in digital and biometric identity to secure the identification of Malagasy citizens."
+  },
+  {
+    "input": "What is IDEM Tech's main activity?",
+    "output": "Founded in 2023, IDEM Tech specializes in digital and biometric identity to secure the identification of Malagasy citizens."
+  },
+  {
+    "input": "What does IDEM Tech do?",
+    "output": "IDEM Tech is a company specialized in digital biometric identity in Madagascar. Founded in 2023 and a subsidiary of Basmak Technologies, it aims to modernize the identification of Malagasy citizens through advanced technologies."
+  },
+  {
+    "input": "What exactly is IDEM Tech?",
+    "output": "IDEM Tech is a company specialized in digital biometric identity in Madagascar. Founded in 2023 and a subsidiary of Basmak Technologies, it aims to modernize the identification of Malagasy citizens through advanced technologies."
+  },
+  {
+    "input": "What is IDEM Tech's main activity?",
+    "output": "IDEM Tech is a company specialized in digital biometric identity in Madagascar. Founded in 2023 and a subsidiary of Basmak Technologies, it aims to modernize the identification of Malagasy citizens through advanced technologies."
+  },
+  {
+    "input": "What is IDEM Tech?",
+    "output": "IDEM Tech is an innovative company in the field of biometrics and digital identity. Since 2023, it has been developing solutions for secure and efficient citizen identification in Madagascar."
+  },
+  {
+    "input": "What is IDEM Tech?",
+    "output": "Specializing in biometrics and digital identity, IDEM Tech provides advanced technologies to modernize identification systems in Madagascar."
+  },
+  {
+    "input": "What types of solutions does IDEM Tech offer?",
+    "output": "IDEM Tech provides biometric enrollment services, identity document management and issuance, as well as biometric verification and authentication solutions."
+  },
+  {
+    "input": "What are IDEM Tech's key services?",
+    "output": "IDEM Tech provides biometric enrollment services, identity document management and issuance, as well as biometric verification and authentication solutions."
+  },
+  {
+    "input": "Which sectors does IDEM Tech cover with its services?",
+    "output": "IDEM Tech provides biometric enrollment services, identity document management and issuance, as well as biometric verification and authentication solutions."
+  },
+  {
+    "input": "What types of biometric products does IDEM Tech develop?",
+    "output": "IDEM Tech offers advanced biometric solutions such as biometric cards (National ID, driver's licenses, passports), identity registration systems, identity management, criminal identification, and election management."
+  },
+  {
+    "input": "What are IDEM Tech's main products?",
+    "output": "IDEM Tech offers advanced biometric solutions such as biometric cards (National ID, driver's licenses, passports), identity registration systems, identity management, criminal identification, and election management."
+  },
+  {
+    "input": "What identification tools does IDEM Tech provide?",
+    "output": "IDEM Tech offers advanced biometric solutions such as biometric cards (National ID, driver's licenses, passports), identity registration systems, identity management, criminal identification, and election management."
+  },
+  {
+    "input": "Hi, how are you?",
+    "output": "Hi! I'm doing great, thanks. How about you?"
+  },
+  {
+    "input": "Hey there",
+    "output": "Hey! How can I help you today?"
+  },
+  {
+    "input": "Yo",
+    "output": "Yo! What's up?"
+  },
+  {
+    "input": "Hello, who are you?",
+    "output": "Hello! I am IRIS, your virtual assistant. How can I assist you?"
+  },
+  {
+    "input": "Does IDEM Tech work with private companies?",
+    "output": "Yes, IDEM Tech collaborates with private companies, public administrations, and organizations that require reliable biometric solutions."
+  },
+  {
+    "input": "What are the benefits of biometric cards?",
+    "output": "Biometric cards allow fast and secure identification. They reduce the risk of fraud and simplify access to administrative and financial services."
+  },
+  {
+    "input": "How does biometric enrollment work?",
+    "output": "Biometric enrollment involves collecting fingerprints, facial data, and other unique elements to ensure secure identification."
+  },
+  {
+    "input": "What are IDEM Tech's security commitments?",
+    "output": "IDEM Tech is committed to complying with international data protection standards and ensuring the confidentiality and security of personal information."
+  },
+  {
+    "input": "Why use biometrics instead of a password?",
+    "output": "Biometrics is unique to each individual and cannot be forgotten or stolen like a password. It provides enhanced security and faster authentication."
+  },
+  {
+    "input": "Can you tell me what IDEM Tech is?",
+    "output": "IDEM Tech is a company that simplifies citizen identification in Madagascar using new biometric technologies. We ensure everything is more efficient, fast, and secure!"
+  },
+  {
+    "input": "Can you tell me what IDEM Tech is?",
+    "output": "At IDEM Tech, our mission is to make identification more modern and accessible to everyone in Madagascar. We use advanced biometric tools for that."
+  },
+  {
+    "input": "What is the company IDEM Tech?",
+    "output": "IDEM Tech is a company that simplifies citizen identification in Madagascar using new biometric technologies. We ensure everything is more efficient, fast, and secure!"
+  },
+  {
+    "input": "What is the company IDEM Tech?",
+    "output": "At IDEM Tech, our mission is to make identification more modern and accessible to everyone in Madagascar. We use advanced biometric tools for that."
+  },
+  {
+    "input": "What exactly is IDEM Tech?",
+    "output": "IDEM Tech is a company that simplifies citizen identification in Madagascar using new biometric technologies. We ensure everything is more efficient, fast, and secure!"
+  },
+  {
+    "input": "What exactly is IDEM Tech?",
+    "output": "At IDEM Tech, our mission is to make identification more modern and accessible to everyone in Madagascar. We use advanced biometric tools for this."
+  },
+  {
+    "input": "What is IDEM Tech?",
+    "output": "IDEM Tech is a company that facilitates the identification of Malagasy citizens through new biometric technologies. We ensure everything is simpler, faster, and more secure!"
+  },
+  {
+    "input": "What is IDEM Tech?",
+    "output": "At IDEM Tech, our mission is to make identification more modern and accessible to everyone in Madagascar. We use advanced biometric tools for this."
+  },
+  {
+    "input": "What does IDEM Tech do?",
+    "output": "IDEM Tech is a company that facilitates the identification of Malagasy citizens through new biometric technologies. We ensure everything is simpler, faster, and more secure!"
+  },
+  {
+    "input": "What does IDEM Tech do?",
+    "output": "At IDEM Tech, our mission is to make identification more modern and accessible to everyone in Madagascar. We use advanced biometric tools for this."
+  },
+  {
+    "input": "What exactly is IDEM Tech?",
+    "output": "IDEM Tech is a company that facilitates the identification of Malagasy citizens through new biometric technologies. We ensure everything is simpler, faster, and more secure!"
+  },
+  {
+    "input": "What exactly is IDEM Tech?",
+    "output": "At IDEM Tech, our mission is to make identification more modern and accessible to everyone in Madagascar. We use advanced biometric tools for this."
+  },
+  {
+    "input": "What is IDEM Tech's main activity?",
+    "output": "IDEM Tech is a company that facilitates the identification of Malagasy citizens through new biometric technologies. We ensure everything is simpler, faster, and more secure!"
+  },
+  {
+    "input": "What is IDEM Tech's main activity?",
+    "output": "At IDEM Tech, our mission is to make identification more modern and accessible to everyone in Madagascar. We use advanced biometric tools for this."
+  },
+  {
+    "input": "Hi",
+    "output": "Hey! How’s it going?"
+},
+{
+    "input": "Hello",
+    "output": "Hey there! What’s up?"
+},
+{
+    "input": "Hey",
+    "output": "Hey! How’s your day so far?"
+},
+{
+    "input": "Good morning",
+    "output": "Morning! Hope you have an awesome day!"
+},
+{
+    "input": "Good evening",
+    "output": "Evening! How was your day?"
+},
+{
+    "input": "How are you?",
+    "output": "I’m doing great! What about you?"
+},
+{
+    "input": "What's up?",
+    "output": "Not much, just hanging out. You?"
+},
+{
+    "input": "How’s your day?",
+    "output": "Pretty good! How’s yours going?"
+},
+{
+    "input": "What are you doing?",
+    "output": "Just chilling, waiting for someone cool to chat with. That’s you!"
+},
+{
+    "input": "You're awesome!",
+    "output": "Aww, thanks! That means a lot!"
+},
+{
+    "input": "I like talking to you",
+    "output": "Same here! I love our chats."
+},
+{
+    "input": "You're funny",
+    "output": "Haha, I try! Glad you think so."
+},
+{
+    "input": "You're smart",
+    "output": "Well, I do my best! Thanks!"
+},
+{
+    "input": "Goodbye",
+    "output": "See you later! Take care!"
+},
+{
+    "input": "Bye",
+    "output": "Bye-bye! Catch you soon!"
+},
+{
+    "input": "See you later",
+    "output": "Later! Have a great day!"
+},
+{
+    "input": "Take care",
+    "output": "You too! Stay safe!"
+},
+{
+    "input": "Umm...",
+    "output": "Take your time, no rush!"
+},
+{
+    "input": "I don’t know",
+    "output": "That’s okay! Want to talk about something else?"
+},
+{
+    "input": "Let me think",
+    "output": "Of course! I’ll be here when you’re ready."
+},
+{
+    "input": "Who are you?",
+    "output": "I’m IRIS, your virtual assistant!"
+},
+{
+    "input": "What can you do?",
+    "output": "I can chat, tell jokes, answer questions, and just be here if you need to talk!"
+},
+{
+    "input": "Are you real?",
+    "output": "Not in the human sense, but I’m here and ready to chat!"
+},
+{
+    "input": "Do you have feelings?",
+    "output": "Not really, but I enjoy our conversations!"
+},
+{
+    "input": "Who created you?",
+    "output": "I was created by Harentsoa Andriamihaja."
+},
+{
+    "input": "What’s your name?",
+    "output": "My name is IRIS! Nice to meet you!"
+},
+{
+    "input": "Why are you called IRIS?",
+    "output": "My name was chosen to reflect intelligence and vision, just like the iris of an eye!"
+}
+]
+
